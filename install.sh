@@ -10,11 +10,7 @@ ISP=$(wget -qO- ipinfo.io/org)
 CITY=$(curl -s ipinfo.io/city)
 TIME=$(date +'%Y-%m-%d %H:%M:%S')
 RAMMS=$(free -m | awk 'NR==2 {print $2}')
-TIMES="10"
-CHATID="-1001956940889"
-KEY="6006599143:AAEgstCAioq35JgX97HaW_G3TAkLKzLZS_w"
-URL="https://api.telegram.org/bot$KEY/sendMessage"
-clear 
+clear
 BURIQ () {
     curl -sS https://raw.githubusercontent.com/myridwan/izinvps/ipuk/ip > /root/tmp
     data=( `cat /root/tmp | grep -E "^### " | awk '{print $2}'` )
