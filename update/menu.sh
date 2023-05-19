@@ -199,7 +199,7 @@ echo -e "$COLOR1│  \033[0m ${BOLD}${YELLOW}SSH     VMESS       VLESS      TROJ
 echo -e "$COLOR1│  \033[0m ${Blue} $ssh1        $vma           $vla          $tra               $ssa   $NC    $COLOR1│"
 echo -e "$COLOR1└────────────────────────────────────────────────────────────┘${NC}"
 echo -e "$COLOR1┌────────────────────────────────────────────────────────────┐${NC}"
-echo -e "                         << MENU TUNNELING >>                    \E[0m" | lolcat
+echo -e "                     << MENU TUNNELING >>                    \E[0m" | lolcat
 echo -e "$COLOR1└────────────────────────────────────────────────────────────┘${NC}"
 echo -e "  ${CYAN}[01]${NC} • ${RED}[${NC}${PURPLE} SSH MENU ${NC}${RED}]${NC}             ${CYAN}[08]${NC} • ${RED}[${NC}${PURPLE} BACKUP MENU ${NC}${RED}]${NC} "
 echo -e "  ${CYAN}[02]${NC} • ${RED}[${NC}${PURPLE} VMESS MENU ${NC}${RED}]${NC}           ${CYAN}[09]${NC} • ${RED}[${NC}${PURPLE} SETTING MENU${NC}${RED}]${NC}  "
@@ -209,7 +209,7 @@ echo -e "  ${CYAN}[05]${NC} • ${RED}[${NC}${PURPLE} SSWS MENU ${NC}${RED}]${NC
 echo -e "  ${CYAN}[06]${NC} • ${RED}[${NC}${PURPLE} UPDATE MENU${NC}${RED}]${NC}           ${CYAN}[13]${NC} • ${RED}[${NC}${PURPLE} AUTO REBOOT ${NC}${RED}]${NC}     "
 echo -e "  ${CYAN}[07]${NC} • ${RED}[${NC}${PURPLE} INSTALL UDP ${NC}${RED}]${NC}          ${CYAN}[14]${NC} • ${RED}[${NC}${PURPLE} MENU BOT ${NC}${RED}]${NC} "
 echo -e "$COLOR1┌────────────────────────────────────────────────────────────┐${NC}"
-echo -e "                  << SCRIPT MULTIPORT TUNNELING >>                    \E[0m" | lolcat
+echo -e "              << SCRIPT MULTIPORT TUNNELING >>                    \E[0m" | lolcat
 echo -e "$COLOR1└────────────────────────────────────────────────────────────┘${NC}"
 echo -e ""
 echo -ne " Select menu : "; read opt
