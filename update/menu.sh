@@ -207,7 +207,7 @@ echo -e "  ${CYAN}[03]${NC} • ${RED}[${NC}${PURPLE} VLESS MENU ${NC}${RED}]${N
 echo -e "  ${CYAN}[04]${NC} • ${RED}[${NC}${PURPLE} TROJAN MENU ${NC}${RED}]${NC}          ${CYAN}[11]${NC} • ${RED}[${NC}${PURPLE} ADD HOST/DOMAIN ${NC}${RED}]${NC}    "
 echo -e "  ${CYAN}[05]${NC} • ${RED}[${NC}${PURPLE} SSWS MENU ${NC}${RED}]${NC}            ${CYAN}[12]${NC} • ${RED}[${NC}${PURPLE} CERT XRAY ${NC}${RED}]${NC}    "
 echo -e "  ${CYAN}[06]${NC} • ${RED}[${NC}${PURPLE} UPDATE MENU${NC}${RED}]${NC}           ${CYAN}[13]${NC} • ${RED}[${NC}${PURPLE} AUTO REBOOT ${NC}${RED}]${NC}     "
-echo -e "  ${CYAN}[07]${NC} • ${RED}[${NC}${PURPLE} INSTALL UDP ${NC}${RED}]${NC}           ${CYAN}[14]${NC} • ${RED}[${NC}${PURPLE} MENU BOT ${NC}${RED}]${NC} "
+echo -e "  ${CYAN}[07]${NC} • ${RED}[${NC}${PURPLE} INSTALL UDP ${NC}${RED}]${NC}          ${CYAN}[14]${NC} • ${RED}[${NC}${PURPLE} MENU BOT ${NC}${RED}]${NC} "
 echo -e "$COLOR1┌────────────────────────────────────────────────────────────┐${NC}"
 echo -e "                  << SCRIPT MULTIPORT TUNNELING >>                    \E[0m" | lolcat
 echo -e "$COLOR1└────────────────────────────────────────────────────────────┘${NC}"
